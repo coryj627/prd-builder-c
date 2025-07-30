@@ -9,7 +9,7 @@ import {
   Box,
   LinearProgress
 } from '@mui/material';
-import { useAppContext } from '../../context/AppContext';
+
 
 // Import wizard steps (will create these next)
 import BasicDetails from './steps/BasicDetails';
